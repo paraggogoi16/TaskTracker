@@ -1,0 +1,115 @@
+/* Add Bill CSS */
+/* Project  Details CSS */
+/* Vendor Details CSS */
+/* Bill Register CSS */
+/* Main Header CSS */
+/* Main Footer CSS */
+
+.panel-body-bg {
+	background: #ebeced;
+	padding: 10px;
+}
+
+.panel-heading-bg {
+	background: #002a6e;
+}
+
+.panel-heading-inside-bg {
+	background: #0e3f8f;
+}
+
+.panel-bg-main {
+	background: #cad7d9;
+}
+
+.label {
+	font-family: 'Courier New';
+}
+
+h5 {
+	font-family: 'Courier New';
+	color: white;
+	font-size: 13px;
+}
+
+label{
+	font-family: 'Courier New';
+	font-size: 13px;
+}
+
+.table td{
+  position:relative;
+  font-family: 'Courier New';
+  font-weight: bold;
+  font-size: 12px;
+  background: #ffffff;
+}
+
+.table thead{
+  position:relative;
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size: 13px;
+  background: #337ab7;
+  color: #ffffff;
+}
+
+.form-group{
+	font-family: 'Courier New';
+}
+
+/* For billEntry Page */
+h4 {
+	font-family: 'Courier New';
+	text-align: center;
+	color: white;
+	font-size: 13px;
+}
+/* For billEntry Page End*/
+
+/* For createProject Page */
+.btn1 {
+	margin-top: 5px;
+	margin-left: auto;
+	background-color: ;
+	border: none;
+	padding: 5px 9px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.btn2 {
+	margin-top: 5px;
+	background-color: ;
+	border: none;
+	padding: 5px 9px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.assignedHeadClass{
+	display: none;
+}
+
+.btncenter {
+	text-align:center
+}
+
+.control-label {
+	margin-top: 20px;
+	margin-bottom: 20px
+}
+
+.select {
+	font-family: 'Courier New';
+}
+
+#editPrjctDiv {
+	display: none;
+}
+
+.panel-body-bg1 {
+	background: #e6f1f0;
+	padding: 10px;
+}
+/* For createProject Page End*/

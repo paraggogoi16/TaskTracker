@@ -1,0 +1,52 @@
+8
+
+dir
+216
+http://103.8.249.10/svn/repo1/branches/Source%20Code/Grivience/src/main/webapp/static/plugins/isotope
+http://103.8.249.10/svn/repo1
+
+
+
+2020-11-27T09:04:31.775941Z
+216
+sandeep
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+472e87eb-d9e9-42be-ba98-f04894146301
+
+isotope.pkgd.js
+file
+
+
+
+
+2020-12-03T05:55:58.923000Z
+8d94a4845b75094187b897047cfb77f1
+2020-11-27T09:04:31.775941Z
+216
+sandeep
+
+isotope.pkgd.min.js
+file
+
+
+
+
+2020-12-03T05:55:58.970000Z
+d5e00cf73d518ca8d72c253c51e6014a
+2020-11-27T09:04:31.775941Z
+216
+sandeep
+

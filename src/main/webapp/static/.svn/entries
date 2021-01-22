@@ -1,0 +1,61 @@
+8
+
+dir
+216
+http://103.8.249.10/svn/repo1/branches/Source%20Code/Grivience/src/main/webapp/static
+http://103.8.249.10/svn/repo1
+
+
+
+2020-11-27T09:04:31.775941Z
+216
+sandeep
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+472e87eb-d9e9-42be-ba98-f04894146301
+
+DataTables
+dir
+
+Datepicker
+dir
+
+Ionicons
+dir
+
+bootstrap
+dir
+
+css
+dir
+
+fonts
+dir
+
+images
+dir
+
+index
+dir
+
+js
+dir
+
+plugins
+dir
+
+sweetalert
+dir
+

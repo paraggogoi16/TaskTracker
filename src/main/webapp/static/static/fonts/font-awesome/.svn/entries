@@ -1,0 +1,40 @@
+8
+
+dir
+216
+http://103.8.249.10/svn/repo1/branches/Source%20Code/Grivience/src/main/webapp/static/fonts/font-awesome
+http://103.8.249.10/svn/repo1
+
+
+
+2020-11-27T09:04:31.775941Z
+216
+sandeep
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+472e87eb-d9e9-42be-ba98-f04894146301
+
+css
+dir
+
+fonts
+dir
+
+less
+dir
+
+scss
+dir
+

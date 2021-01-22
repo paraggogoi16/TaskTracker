@@ -1,0 +1,50 @@
+h2 {
+	font-family: 'Comic Sans MS';
+	font-weight: bold;	
+}
+.imagediv {
+	padding-top: 70px;
+}
+.regform {
+	background: lightblue;
+	border-radius: 15px 65px;
+	padding: 20px;
+	padding-top: 40px;
+	font-family: 'Consolas';
+	font-weight: bold;
+	font-size: 18px;
+}
+.passform {
+	background: lightblue;
+	padding: 20px;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	font-family: 'Consolas';
+	font-weight: bold;
+	font-size: 18px;
+}
+h2 {
+	text-align: center;
+	top: 20px;
+}
+p {
+	text-align: center;
+}
+img {
+	width: 100%;
+	object-fit: cover;
+}
+ul {
+	text-align: center;
+}
+li {
+	margin-right: 30px;
+	
+	margin-left: 30px;
+}
+.form-group-btn {
+	text-align: center;
+}
+#passform {
+	display: none;
+}

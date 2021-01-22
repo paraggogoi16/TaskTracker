@@ -1,0 +1,43 @@
+h3 {
+	font-family: 'Consolas';
+	font-weight: bold;
+	text-align: center;
+	top: 20px;
+}
+.panel-body{
+	font-family: 'Consolas';
+}
+.panel-heading{
+	
+}
+.btncenter {
+	text-align: center;
+}
+
+/* FOR ADMIN REGISTER PAGE START */
+
+.regform {
+	font-family: 'Consolas';
+	font-weight: bold;
+	font-size: 18px;
+}
+.passform {
+	display: none;
+	font-family: 'Consolas';
+	font-weight: bold;
+	font-size: 18px;
+}
+.notificationspan{
+	font-size: 14px;
+}
+
+/* FOR ADMIN REGISTER PAGE START */
+
+
+/* FOR OFFICER MAPPING PAGE START */
+
+.officerDeptMap, .officerDesgMap, .officerDeptMapList, .officerDesgMapList{
+	display: none;
+}
+
+/* FOR OFFICER MAPPING PAGE END */
